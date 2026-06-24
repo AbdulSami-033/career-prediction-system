@@ -20,3 +20,6 @@ A machine learning-based web application that predicts suitable career paths bas
 1. Install dependencies
 2. Run:
    streamlit run app.py
+   
+🔗 Live Demo:
+https://career-prediction-system-9kdwap9obuw8kxxj63rufd.streamlit.app/
